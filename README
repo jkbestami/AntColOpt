@@ -1,0 +1,31 @@
+An implementation of the Ant Colony Optimization to solve the Traveling Salesman Problem with support for parallel colonies running concurrently.
+
+
+TO COMPILE:
+
+javac ACO.java
+
+TO RUN:
+
+java ACO
+
+
+you will then be prompted for an input file and for the parameters.
+
+The input file should be formatted in the following way:
+
+[number of cities]
+[name of city 1],[lattitude],[longitude]
+[name of city 2],[lattitude],[longitude]
+...
+
+
+
+Some examples of input files are provided.
+
+
+You will then be prompted to enter values for the parameters alpha, beta and rho.
+Leave a blank line (just press ENTER) for the default values.
+
+You will then be asked to enter the number of concurrent ant colonies to work on the problem.
+It is suggested you use more than one to improve the accuracy of the path.

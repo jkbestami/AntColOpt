@@ -1,0 +1,239 @@
+238
+Hargeisa,9.5500,44.0500
+Port-aux-Francais,-49.3500,70.2167
+Jerusalem,31.7667,35.2333
+Mariehamn,60.1167,19.9000
+Yaren,-0.5477,166.9209
+Marigot,18.0731,-63.0822
+Atafu,-9.1667,-171.8333
+El-Aaiún,27.1536,-13.2033
+Kabul,34.5167,69.1833
+Tirana,41.3167,19.8167
+Algiers,36.7500,3.0500
+Pago Pago,-14.2667,-170.7000
+Andorra la Vella,42.5000,1.5167
+Luanda,-8.8333,13.2167
+The Valley,18.2167,-63.0500
+Saint John's,17.1167,-61.8500
+Buenos Aires,-34.5833,-58.6667
+Yerevan,40.1667,44.5000
+Oranjestad,12.5167,-70.0333
+Canberra,-35.2667,149.1333
+Vienna,48.2000,16.3667
+Baku,40.3833,49.8667
+Nassau,25.0833,-77.3500
+Manama,26.2333,50.5667
+Dhaka,23.7167,90.4000
+Bridgetown,13.1000,-59.6167
+Minsk,53.9000,27.5667
+Brussels,50.8333,4.3333
+Belmopan,17.2500,-88.7667
+Porto-Novo,6.4833,2.6167
+Hamilton,32.2833,-64.7833
+Thimphu,27.4667,89.6333
+La Paz,-16.5000,-68.1500
+Sarajevo,43.8667,18.4167
+Gaborone,-24.6333,25.9000
+Brasilia,-15.7833,-47.9167
+Road Town,18.4167,-64.6167
+Bandar Seri Begawan,4.8833,114.9333
+Sofia,42.6833,23.3167
+Ouagadougou,12.3667,-1.5167
+Rangoon,16.8000,96.1500
+Bujumbura,-3.3667,29.3500
+Phnom Penh,11.5500,104.9167
+Yaounde,3.8667,11.5167
+Ottawa,45.4167,-75.7000
+Praia,14.9167,-23.5167
+George Town,19.3000,-81.3833
+Bangui,4.3667,18.5833
+N'Djamena,12.1000,15.0333
+Santiago,-33.4500,-70.6667
+Beijing,39.9167,116.3833
+The Settlement,-10.4167,105.7167
+West Island,-12.1667,96.8333
+Bogota,4.6000,-74.0833
+Moroni,-11.7000,43.2333
+Kinshasa,-4.3167,15.3000
+Brazzaville,-4.2500,15.2833
+Avarua,-21.2000,-159.7667
+San Jose,9.9333,-84.0833
+Yamoussoukro,6.8167,-5.2667
+Zagreb,45.8000,16.0000
+Havana,23.1167,-82.3500
+Willemstad,12.1000,-68.9167
+Nicosia,35.1667,33.3667
+Prague,50.0833,14.4667
+Copenhagen,55.6667,12.5833
+Djibouti,11.5833,43.1500
+Roseau,15.3000,-61.4000
+Santo Domingo,18.4667,-69.9000
+Quito,-0.2167,-78.5000
+Cairo,30.0500,31.2500
+San Salvador,13.7000,-89.2000
+Malabo,3.7500,8.7833
+Asmara,15.3333,38.9333
+Tallinn,59.4333,24.7167
+Addis Ababa,9.0333,38.7000
+Stanley,-51.7000,-57.8500
+Torshavn,62.0000,-6.7667
+Suva,-18.1333,178.4167
+Helsinki,60.1667,24.9333
+Paris,48.8667,2.3333
+Papeete,-17.5333,-149.5667
+Libreville,0.3833,9.4500
+Banjul,13.4500,-16.5667
+Tbilisi,41.6833,44.8333
+Berlin,52.5167,13.4000
+Accra,5.5500,-0.2167
+Gibraltar,36.1333,-5.3500
+Athens,37.9833,23.7333
+Nuuk,64.1833,-51.7500
+Saint George's,12.0500,-61.7500
+Hagatna,13.4667,144.7333
+Guatemala City,14.6167,-90.5167
+Saint Peter Port,49.4500,-2.5333
+Conakry,9.5000,-13.7000
+Bissau,11.8500,-15.5833
+Georgetown,6.8000,-58.1500
+Port-au-Prince,18.5333,-72.3333
+Vatican City,41.9000,12.4500
+Tegucigalpa,14.1000,-87.2167
+Budapest,47.5000,19.0833
+Reykjavik,64.1500,-21.9500
+New Delhi,28.6000,77.2000
+Jakarta,-6.1667,106.8167
+Tehran,35.7000,51.4167
+Baghdad,33.3333,44.4000
+Dublin,53.3167,-6.2333
+Douglas,54.1500,-4.4833
+Rome,41.9000,12.4833
+Kingston,18.0000,-76.8000
+Tokyo,35.6833,139.7500
+Saint Helier,49.1833,-2.1000
+Amman,31.9500,35.9333
+Astana,51.1667,71.4167
+Nairobi,-1.2833,36.8167
+Tarawa,-0.8833,169.5333
+Pyongyang,39.0167,125.7500
+Seoul,37.5500,126.9833
+Pristina,42.6667,21.1667
+Kuwait City,29.3667,47.9667
+Bishkek,42.8667,74.6000
+Vientiane,17.9667,102.6000
+Riga,56.9500,24.1000
+Beirut,33.8667,35.5000
+Maseru,-29.3167,27.4833
+Monrovia,6.3000,-10.8000
+Tripoli,32.8833,13.1667
+Vaduz,47.1333,9.5167
+Vilnius,54.6833,25.3167
+Luxembourg,49.6000,6.1167
+Skopje,42.0000,21.4333
+Antananarivo,-18.9167,47.5167
+Lilongwe,-13.9667,33.7833
+Kuala Lumpur,3.1667,101.7000
+Male,4.1667,73.5000
+Bamako,12.6500,-8.0000
+Valletta,35.8833,14.5000
+Majuro,7.1000,171.3833
+Nouakchott,18.0667,-15.9667
+Port Louis,-20.1500,57.4833
+Mexico City,19.4333,-99.1333
+Palikir,6.9167,158.1500
+Chisinau,47.0000,28.8500
+Monaco,43.7333,7.4167
+Ulaanbaatar,47.9167,106.9167
+Podgorica,42.4333,19.2667
+Plymouth,16.7000,-62.2167
+Rabat,34.0167,-6.8167
+Maputo,-25.9500,32.5833
+Windhoek,-22.5667,17.0833
+Kathmandu,27.7167,85.3167
+Amsterdam,52.3500,4.9167
+Noumea,-22.2667,166.4500
+Wellington,-41.3000,174.7833
+Managua,12.1333,-86.2500
+Niamey,13.5167,2.1167
+Abuja,9.0833,7.5333
+Alofi,-19.0167,-169.9167
+Kingston,-29.0500,167.9667
+Saipan,15.2000,145.7500
+Oslo,59.9167,10.7500
+Muscat,23.6167,58.5833
+Islamabad,33.6833,73.0500
+Melekeok,7.4833,134.6333
+Panama City,8.9667,-79.5333
+Port Moresby,-9.4500,147.1833
+Asuncion,-25.2667,-57.6667
+Lima,-12.0500,-77.0500
+Manila,14.6000,120.9667
+Adamstown,-25.0667,-130.0833
+Warsaw,52.2500,21.0000
+Lisbon,38.7167,-9.1333
+San Juan,18.4667,-66.1167
+Doha,25.2833,51.5333
+Bucharest,44.4333,26.1000
+Moscow,55.7500,37.6000
+Kigali,-1.9500,30.0500
+Gustavia,17.8833,-62.8500
+Jamestown,-15.9333,-5.7167
+Basseterre,17.3000,-62.7167
+Castries,14.0000,-61.0000
+Saint-Pierre,46.7667,-56.1833
+Kingstown,13.1333,-61.2167
+Apia,-13.8167,-171.7667
+San Marino,43.9333,12.4167
+Sao Tome,0.3333,6.7333
+Riyadh,24.6500,46.7000
+Dakar,14.7333,-17.6333
+Belgrade,44.8333,20.5000
+Victoria,-4.6167,55.4500
+Freetown,8.4833,-13.2333
+Singapore,1.2833,103.8500
+Philipsburg,18.0167,-63.0333
+Bratislava,48.1500,17.1167
+Ljubljana,46.0500,14.5167
+Honiara,-9.4333,159.9500
+Mogadishu,2.0667,45.3333
+Pretoria,-25.7000,28.2167
+Juba,4.8500,31.6167
+Madrid,40.4000,-3.6833
+Colombo,6.9167,79.8333
+Khartoum,15.6000,32.5333
+Paramaribo,5.8333,-55.1667
+Longyearbyen,78.2167,15.6333
+Mbabane,-26.3167,31.1333
+Stockholm,59.3333,18.0500
+Bern,46.9167,7.4667
+Damascus,33.5000,36.3000
+Taipei,25.0333,121.5167
+Dushanbe,38.5500,68.7667
+Dar es Salaam,-6.8000,39.2833
+Bangkok,13.7500,100.5167
+Dili,-8.5833,125.6000
+Lome,6.1167,1.2167
+Nuku'alofa,-21.1333,-175.2000
+Port of Spain,10.6500,-61.5167
+Tunis,36.8000,10.1833
+Ankara,39.9333,32.8667
+Ashgabat,37.9500,58.3833
+Grand Turk,21.4667,-71.1333
+Funafuti,-8.5167,179.2167
+Kampala,0.3167,32.5500
+Kyiv,50.4333,30.5167
+Abu Dhabi,24.4667,54.3667
+London,51.5000,-0.0833
+Montevideo,-34.8500,-56.1667
+Tashkent,41.3167,69.2500
+Port-Vila,-17.7333,168.3167
+Caracas,10.4833,-66.8667
+Hanoi,21.0333,105.8500
+Charlotte Amalie,18.3500,-64.9333
+Mata-Utu,-13.9500,-171.9333
+Sanaa,15.3500,44.2000
+Lusaka,-15.4167,28.2833
+Harare,-17.8167,31.0333
+North Nicosia,35.1833,33.3667
+Diego Garcia,-7.3000,72.4000
+Washington,38.8833,-77.0000
